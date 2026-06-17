@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-luna-llena/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caricias de luna llena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-luna-llena/) |
+| **Get License** | [Get a Licensing Quote for Caricias de luna llena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-luna-llena/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes de madrugada buscando tu calor, yeah
+> Baby, en este party tú eres mi única opción
+> Tus ojos me llaman, I feel the attraction
+> Bailando suave, mami, pura seducción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
