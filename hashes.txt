@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias de luna llena
+
+This log tracks the cryptographic history and versioning for the song **Caricias de luna llena** (caricias-de-luna-llena).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T22:46:05.232056 | `v1` | `ca437331e9565006954d5edcdcca7992323f58a3a6380bff581ff7c99bbc41c7` | `fe3e6e20a1635a7d7997dc640234dee11c8df6ed3e5f89f12c6e50e1effc5581` | `2026-06-17_caricias-de-luna-llena-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
